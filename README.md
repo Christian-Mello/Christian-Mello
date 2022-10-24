@@ -2,7 +2,7 @@
 
  🔭 Em busca do Primeiro emprego na área
 <br>
- 🌱 Estundando PHP atualemente
+ 🌱 Estundando PHP atualmente
 <br>
  😄 Pronome: Ele/Dele
 ##
