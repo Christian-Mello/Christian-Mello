@@ -1,16 +1,16 @@
-### Hi there 👋
+    Opa Prazer,Sou Christian Mello 👋🤙🤟
 
-<!--
-**Christian-Mello/Christian-Mello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🔭 Em busca do Primeiro emprego na área
+<br>
+ 🌱 Estundando PHP atualemente
+<br>
+ 😄 Pronouns: Ele/Dele
+##
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Christian-Mello">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-Mello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Mello&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
