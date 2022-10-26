@@ -4,7 +4,6 @@
 <br>
  🌱 Estundando PHP atualmente
 <br>
- 😄 Pronome: Ele/Dele
 ##
 
 <div align="center">
